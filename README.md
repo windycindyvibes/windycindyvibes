@@ -1,4 +1,16 @@
 ## Hi there 👋
+# 
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cindy Wang
+===================================================================================================================================
+
+CS/AI, math, and physics @ MIT
+------------------------------
+
+Interested in AI/ML, data science, robotics + applications to sustainability and physics/astronomy
+
+* 🌍  Cambridge, Massachusetts
+* ✉️  Contact me at [cwang08 \[@\] mit \[.\] edu](mailto:cwang08 [@] mit [.] edu)!
 
 <!--
 **windycindyvibes/windycindyvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
