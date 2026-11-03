@@ -10,7 +10,7 @@ CS/AI, math, and physics @ MIT
 Interested in AI/ML, data science, robotics + applications to sustainability and physics/astronomy
 
 * 🌍  Cambridge, Massachusetts
-* ✉️  Contact me at [cwang08 \[@\] mit \[.\] edu](mailto:cwang08 [@] mit [.] edu)!
+* ✉️  Contact me at cwang08 \[@\] mit \[.\] edu!
 
 <!--
 **windycindyvibes/windycindyvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
